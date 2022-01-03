@@ -1,0 +1,18 @@
+h1{
+background-color: cornsilk;
+color: crimson;
+font-size: 50px;
+text-align: center;
+border: solid blue;
+border-radius: 7px;
+
+
+}
+p{
+    background-color: antiquewhite;
+    font-size: 50px;
+    text-align: center;
+    border: solid cornflowerblue;
+    margin: 5px;
+    border-radius: 5px;
+}
